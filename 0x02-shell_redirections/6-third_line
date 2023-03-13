@@ -1,0 +1,2 @@
+#!/vin/bash
+head -n3 iacta|tail -n1
